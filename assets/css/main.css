@@ -2431,7 +2431,7 @@ button2,
 		/* Basic */
 
 			html, body {
-				overflow-x: hidden;
+				overflow: hidden;
 			}
 
 			body, input, textarea, select {
