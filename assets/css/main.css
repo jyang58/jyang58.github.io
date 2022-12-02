@@ -2252,7 +2252,8 @@ input, select, textarea {
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #81918E;
+				background-image: url("../../images/madness.jpg");
 			}
 
 			#main > section.three {
